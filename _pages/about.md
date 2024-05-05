@@ -1,5 +1,3 @@
----
-permalink: /
 title: "Xingkun Xu"
 author_profile: true
 redirect_from: 
@@ -14,7 +12,7 @@ My expertise spans various areas, including wave dynamics, atmospheric and ocean
 * Impact of ocean waves on the air-sea boundary layers.
 * Wave-ice interaction within the Arctic Cyclones system.
 * Wave climatology downscaling and projection.
-* Wave energy assessments through using high-resolution spectral wave models.
+* Wave energy assessments through the use of high-resolution spectral wave models.
 
 Education
 ======
@@ -32,5 +30,6 @@ Professional Affiliation
 * Honorary Fellow (Ocean Engineering, University of Melbourne)
 * Member of The American Geophysical Union.
 * Member of the American Meteorological Society.
-* Reviewer for Ocean Modelling; Journal Geophysical Research – Oceans; Journal of Marine Science and Engineering
+* Reviewer for Ocean Modelling; Journal of Geophysical Research – Oceans; Journal of Marine Science and Engineering
+
 
