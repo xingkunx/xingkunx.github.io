@@ -13,7 +13,7 @@ My expertise spans various areas, including wave dynamics, atmospheric and ocean
 
 Education
 ======
-\item Ph.D. in Ocean Engineering, University of Melbourne. Melbourne, Australia 2022
+Ph.D. in Ocean Engineering, University of Melbourne. Melbourne, Australia 2022
 Ph.D. candidate in Physical Oceanography, Ocean University of China. Qingdao, China. 2017
 B.S. in Marine Sciences, Ocean University of China. Qingdao, China. 2015
 
