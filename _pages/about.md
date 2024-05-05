@@ -21,7 +21,7 @@ B.S. in Marine Sciences, Ocean University of China. Qingdao, China. 2015.
 
 Professional Experience
 ======
-Postdoctoral Research Fellow, Tropical Marine Science Institute, National University of Singapore. Nov 2023-Current.
+Postdoctoral Research Fellow, National University of Singapore. Nov 2023-Current.
 
 Postdoctoral Project Researcher, University of Tokyo. May 2022-Nov 2023
 
