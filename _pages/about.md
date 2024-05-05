@@ -1,4 +1,4 @@
-title: "About"
+title: "About Xingkun"
 author_profile: true
 redirect_from: 
   - /about/
