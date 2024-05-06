@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Ocean Engineering, University of Melbourne, Melbourne, Australia, 2022.
+* Ph.D. candidate in Physical Oceanography, Ocean University of China, Qingdao, China, 2017.
+* B.S. in Marine Sciences, Ocean University of China, Qingdao, China, 2015.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022: Project Researcher
+  * University of Tokyo, Japan
+  * Air-sea energy exchange at extreme winds; Ocean-ice Modelling.
+ 
+* November 2023: Research Fellow
+  * National University of Singapore, Singapore
+  * Impacts of climate change on the coastal processes; Renewable energy assessments; Wave modelling. 
   
-Skills
+Professional Affiliation
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Honorary Fellow (Ocean Engineering, University of Melbourne)
+* Member of The American Geophysical Union.
+* Member of the American Meteorological Society.
+* Reviewer for Ocean Modelling; Journal of Geophysical Research – Oceans; Journal of Marine Science and Engineering
 
 Publications
 ======
@@ -52,13 +43,15 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Numerical Models
+  * WRF, SWAN/WW3, ROMS/POM/MOM6, COAWST
+* Programming language
+  * Fortran
+  * Matlab
+  * Python
+* Other skills
+  * International Chinese Teacher Certification (2011).
+  * Psychological Counseling Certification of China (2014)
