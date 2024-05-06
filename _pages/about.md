@@ -9,7 +9,7 @@ redirect_from:
 
 I am a physical oceanographer and ocean engineer at the Tropical Marine Science Institute, National University of Singapore (NUS).
 
-My expertise spans various areas, including wave dynamics, atmospheric and oceanic modeling, and in-situ data processing. Specifically, I focus on:
+My expertise spans various areas, including atmosphere, ocean and wave dynamics and numerical modeling, and field, satellite, and reanalysis data processing. Specifically, I focus on:
 
 * Impact of ocean waves on the air-sea boundary layers.
 * Wave-ice interaction within the Arctic Cyclones system.
