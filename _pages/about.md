@@ -34,6 +34,18 @@ Professional Affiliation
 * Member of the American Meteorological Society.
 * Reviewer for Ocean Modelling; Journal of Geophysical Research – Oceans; Journal of Marine Science and Engineering
 
+Skills
+======
+* Numerical Models
+  * WRF, SWAN/WW3, ROMS/POM/MOM6, COAWST
+* Programming language
+  * Fortran
+  * Matlab
+  * Python
+* Other skills
+  * International Chinese Teacher Certification (2011).
+  * Psychological Counseling Certification of China (2014)
+
 Contact
 ======
 * Email: xingkunx@nus.edu.sg or xingkun.xu1@unimelb.edu.au
