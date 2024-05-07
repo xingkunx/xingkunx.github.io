@@ -22,7 +22,7 @@ Education
 * Ph.D. candidate in Physical Oceanography, Ocean University of China, Qingdao, China, 2017.
 * B.S. in Marine Sciences, Ocean University of China, Qingdao, China, 2015.
 
-Work experience
+Professional experience
 ======
 * November 2023 - Current: Research Fellow
   * National University of Singapore, Singapore
