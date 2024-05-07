@@ -24,13 +24,13 @@ Education
 
 Work experience
 ======
-* May 2022: Project Researcher
+* November 2023 - Current: Research Fellow
+  * National University of Singapore, Singapore
+  * Impacts of climate change on the coastal processes; Renewable energy assessments; Wave modelling.
+    
+* May 2022 - Nov 2023: Project Researcher
   * University of Tokyo, Japan
   * Air-sea energy exchange at extreme winds; Ocean-ice Modelling.
- 
-* November 2023: Research Fellow
-  * National University of Singapore, Singapore
-  * Impacts of climate change on the coastal processes; Renewable energy assessments; Wave modelling. 
 
 Professional Affiliation
 ======
