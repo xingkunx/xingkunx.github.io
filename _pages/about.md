@@ -22,10 +22,15 @@ Education
 * Ph.D. candidate in Physical Oceanography, Ocean University of China, Qingdao, China, 2017.
 * B.S. in Marine Sciences, Ocean University of China, Qingdao, China, 2015.
 
-Professional Experience
+Work experience
 ======
-* Postdoctoral Research Fellow, National University of Singapore, Nov 2023-Current.
-* Postdoctoral Project Researcher, University of Tokyo, May 2022-Nov 2023.
+* May 2022: Project Researcher
+  * University of Tokyo, Japan
+  * Air-sea energy exchange at extreme winds; Ocean-ice Modelling.
+ 
+* November 2023: Research Fellow
+  * National University of Singapore, Singapore
+  * Impacts of climate change on the coastal processes; Renewable energy assessments; Wave modelling. 
 
 Professional Affiliation
 ======
