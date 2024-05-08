@@ -42,11 +42,11 @@ Skills
 ======
 * Numerical Models
   * WRF, SWAN/WW3, ROMS/POM/MOM6, COAWST
-* Programming language
+* Programming Language
   * Fortran
   * Matlab
   * Python
-* Other skills
+* Other Skills
   * International Chinese Teacher Certification (2011).
   * Psychological Counseling Certification of China (2014)
 
