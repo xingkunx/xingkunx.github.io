@@ -11,10 +11,9 @@ I am a physical oceanographer and ocean engineer at the Tropical Marine Science 
 
 My expertise spans various areas, including atmosphere, ocean and wave dynamics and numerical modeling, and field, satellite, and reanalysis data processing. Specifically, I focus on:
 
-* Impact of ocean waves on the air-sea boundary layers.
-* Wave-ice interaction within the Arctic Cyclones system.
-* Wave climatology downscaling and projection.
-* Wave energy assessments through the use of high-resolution spectral wave models.
+* The influence of ocean waves on air-sea boundary layers and wave-ice interaction under extreme weather conditions.
+* Downscaling and projecting ocean and wave climatology.
+* Wind and wave energy assessments through the use of regional high-resolution numerical models
 
 Education
 ======
