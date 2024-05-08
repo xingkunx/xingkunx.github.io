@@ -23,7 +23,7 @@ Education
 
 Professional experience
 ======
-* November 2023 - Current: Research Fellow
+* November 2023 - Present: Research Fellow
   * National University of Singapore, Singapore
   * Impacts of climate change on the coastal processes; Renewable energy assessments; Wave modelling.
     
