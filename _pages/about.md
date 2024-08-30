@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a physical oceanographer and ocean engineer at the Tropical Marine Science Institute, National University of Singapore (NUS).
+I am a Physical Oceanographer and Ocean Engineer at the Tropical Marine Science Institute, National University of Singapore, jointly appointed by the Technology Centre for Offshore and Marine, Singapore (TCOMS). My expertise lies in regional ocean wave modeling and atmosphere-ocean-wave coupled modeling under extreme weather conditions. 
 
-My expertise spans various areas, including atmosphere, ocean and wave dynamics and numerical modeling, and field, satellite, and reanalysis data processing. Specifically, I focus on:
-
-* The influence of ocean waves on air-sea boundary layers and wave-ice interaction under extreme weather conditions.
-* Downscaling and projecting ocean and wave climatology.
-* Wind and wave energy assessments through the use of regional high-resolution numerical models
+Throughout my career, I have involved in key research projects, including the development of regional ocean model configurations for the Maritime Continent, and conducting comprehensive hindcast experiments to validate model accuracy and projections for the future. My research also focuses on the impacts of climate change on coastal dynamics, the simulation of extreme weather conditions such as tropical cyclones and wind waves, and the study of polar ocean dynamics and wave-ice interactions. During my PhD, I developed wave-dependent sea spray models and explored their effects on tropical cyclone modeling. 
 
 Education
 ======
