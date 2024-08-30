@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Physical Oceanographer and Ocean Engineer at the Tropical Marine Science Institute, National University of Singapore, jointly appointed by the Technology Centre for Offshore and Marine, Singapore (TCOMS). My expertise lies in regional ocean wave modeling and atmosphere-ocean-wave coupled modeling under extreme weather conditions. 
+I am a Physical Oceanographer and Ocean Engineer at the Tropical Marine Science Institute, National University of Singapore, jointly appointed by the Technology Centre for Offshore and Marine, Singapore (TCOMS). 
 
-Throughout my career, I have involved in key research projects, including the development of regional ocean model configurations for the Maritime Continent, and conducting comprehensive hindcast experiments to validate model accuracy and projections for the future. My research also focuses on the impacts of climate change on coastal dynamics, the simulation of extreme weather conditions such as tropical cyclones and wind waves, and the study of polar ocean dynamics and wave-ice interactions. During my PhD, I developed wave-dependent sea spray models and explored their effects on tropical cyclone modeling. 
+My expertise lies in regional ocean wave modeling and atmosphere-ocean-wave coupled modeling under extreme weather conditions. Throughout my career, I have involved in key research projects, including the development of regional ocean model configurations for the Maritime Continent, and conducting comprehensive hindcast experiments to validate model accuracy and projections for the future. My research also focuses on the impacts of climate change on coastal dynamics, the simulation of extreme weather conditions such as tropical cyclones and wind waves, and the study of polar ocean dynamics and wave-ice interactions. During my PhD, I developed wave-dependent sea spray models and explored their effects on tropical cyclone modeling. 
 
 Education
 ======
@@ -18,7 +18,6 @@ Education
 * B.S. in Marine Sciences, Ocean University of China, Qingdao, China, 2015.
 
 Professional experience
-======
 ======
 Scientist at Technology Centre for Offshore and Marine, Singapore (Sep 2024 - Present)
   * Developed the regional ocean model for the Maritime Continent, integrating river runoff into NEMO.
