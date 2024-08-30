@@ -19,13 +19,21 @@ Education
 
 Professional experience
 ======
-* November 2023 - Present: Research Fellow
-  * National University of Singapore, Singapore
-  * Impacts of climate change on the coastal processes; Renewable energy assessments; Wave modelling.
+======
+Scientist at Technology Centre for Offshore and Marine, Singapore (Sep 2024 - Present)
+  * Developed the regional ocean model for the Maritime Continent, integrating river runoff into NEMO.
+  * Conducted hindcast experiments and validated results against satellite and in-situ data.
+  * Advanced atmosphere-ocean-wave coupled modeling.
     
-* May 2022 - Nov 2023: Project Researcher
-  * University of Tokyo, Japan
-  * Air-sea energy exchange at extreme winds; Ocean-ice Modelling.
+Research Fellow at National University of Singapore, Singapore (Nov 2023 - Present)
+  * Researched climate change impacts on coastal dynamics, focusing on downscaling and ocean wave climatology using WW3.
+  * Advanced probability frameworks and extreme value theory for storm surge and wave analysis.
+  * Developed models for simulating extreme weather risks in Southeast Asia.
+    
+Project Researcher at University of Tokyo, Japan (May 2022 - Nov 2023)
+  * Developed wave-ice coupled models and studied environmental changes in the Arctic using ROMS.
+  * Investigated wave-induced turbulence and its effects on polar ocean dynamics and sea ice.
+  * Supported Arctic and Antarctic research through the development of a remote platform.
 
 Professional Affiliation
 ======
