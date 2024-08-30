@@ -17,19 +17,19 @@ Education
 Work experience
 ======
 Scientist at Technology Centre for Offshore and Marine, Singapore (Sep 2024 - Present)
- * Spearhead the development of the regional ocean model configuration for the Maritime Continent (MC) domain, incorporating river runoff inputs into the NEMO framework.
- * Execute comprehensive hindcast experiments utilizing the NEMO model, with and without river runoff integration, followed by rigorous validation and comparison against satellite observations and in-situ measurements.
- * Engage in the advancement of the atmosphere-ocean-wave coupled modeling system.
+  * Developed the regional ocean model for the Maritime Continent, integrating river runoff into NEMO.
+  * Conducted hindcast experiments and validated results against satellite and in-situ data.
+  * Advanced atmosphere-ocean-wave coupled modeling.
     
 Research Fellow at National University of Singapore, Singapore (Nov 2023 - Present)
-  * Investigation into the effects of climate change on coastal dynamics, with a focus on downscaling methodologies and projections for oceanic and wave climatology through using WW3.
-  * Advancement of probability distribution frameworks and extreme value theory for the analysis of storm surges, ocean currents, wave patterns, and tidal phenomena.
-  * Development of advanced modeling techniques to simulate extreme local wind wave and storm surge scenarios, aimed at enhancing the understanding of compounded regional weather risks in Southeast Asia.
+  * Researched climate change impacts on coastal dynamics, focusing on downscaling and ocean wave climatology using WW3.
+  * Advanced probability frameworks and extreme value theory for storm surge and wave analysis.
+  * Developed models for simulating extreme weather risks in Southeast Asia.
     
 Project Researcher at University of Tokyo, Japan (May 2022 - Nov 2023)
-  * Spearhead the development and operational implementation of wave-ice coupled numerical models based on ROMS, while conducting research to elucidate the processes and current state of environmental changes in the Arctic.
-  * Conduct in-depth investigations into the impact of non-breaking wave-induced turbulence on upper ocean dynamics in polar regions, and examine the influence of ocean waves on sea ice disintegration within Arctic cyclone systems.
-  * Contribute to the establishment of a remotely accessible platform designed to facilitate Arctic and Antarctic research cruises, thereby enhancing the operational capabilities for polar scientific exploration.
+  * Developed wave-ice coupled models and studied environmental changes in the Arctic using ROMS.
+  * Investigated wave-induced turbulence and its effects on polar ocean dynamics and sea ice.
+  * Supported Arctic and Antarctic research through the development of a remote platform.
   
 Professional Affiliation
 ======
