@@ -36,7 +36,7 @@ Professional Affiliation
 * Honorary Fellow (Ocean Engineering, University of Melbourne)
 * Member of The American Geophysical Union.
 * Member of the American Meteorological Society.
-* Reviewer for Ocean Modelling; Journal of Geophysical Research – Oceans; Journal of Marine Science and Engineering
+* Reviewer for Ocean Modelling; Journal of Geophysical Research – Oceans; Ocean Dynamics, Journal of Marine Science and Engineering
 
 Publications
 ======
